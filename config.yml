@@ -1,0 +1,14 @@
+settings:
+  data_path: ./data/
+  data_file: pizza_franchise.csv
+  stream_file: streaming_data.txt
+  kafka_host: localhost
+  log_path: ./logs/
+  project_name: ML_Kafka_Demo
+  log_level: DEBUG
+
+
+model:
+  model_path: ./models/
+  model_file: models.sav
+
